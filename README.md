@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+About Me:
+- I’ve just completed an intensive Data Science Bootcamp and I’m fascinated with machine learning models.
+- I’m currently studying deep learning from a skill track on DataCamp.
+- Exploring pre-trained models from Hugging Face is kind of my hobby these days.
+
 <!--
 **joelzarco/joelzarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
