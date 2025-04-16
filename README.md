@@ -1,21 +1,16 @@
-## Hi there 👋
+## Hello world! This Sergio J. 👋
 
 About Me:
 - I’ve just completed an intensive Data Science Bootcamp and I’m fascinated with machine learning models.
 - I’m currently studying deep learning from a skill track on DataCamp.
-- Exploring pre-trained models from Hugging Face is kind of my hobby these days.
+- Reading about Large Language Models is kind of my hobby these days.
 
-<!--
-**joelzarco/joelzarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|Badge|URL|
+|--|--|
+|`![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)`|`https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white`|
+|`![DataCamp](https://img.shields.io/badge/DataCamp-00A9E0?style=for-the-badge&logo=datacamp&logoColor=white)`|`https://img.shields.io/badge/DataCamp-00A9E0?style=for-the-badge&logo=datacamp&logoColor=white`|
+|`![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)`|`https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white`|
+|`![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)`|`https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white`|
+|`![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)`|
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
